@@ -29,7 +29,7 @@
             class="white--text subheading mt-5 text-xs-center display-2"
             style="font-weight: 800; text-shadow: 1px 1px #000; font-family: Trebuchet; width: 100%;">
             <div style="height: 100px;"></div>
-              <div style="width: 70%; margin: auto;"><span class="white--text display" style="text-shadow: 1px 1px 2px black; font-size: 1.6em; padding: 3%;">Be there when it counts</span></div>
+              <div style="width: 70%; margin: auto;"><span class="white--text display" style="text-shadow: 1px 1px 2px black; font-size: 1.6em; padding: 3%;">Never miss that moment</span></div>
             </div>
           </v-layout>
         </v-parallax>
@@ -44,9 +44,9 @@
         >
           <v-flex xs12 sm4 class="my-3">
             <div class="text-xs-center">
-              <h2 class="headline">The best way to notify event attendees of schedule updates</h2>
+              <h2 class="headline">Your moment in real time.</h2>
               <span class="subheading">
-                Effortless, realtime event updates at your fingertips
+                Never let them miss your moment.
               </span>
             </div>
           </v-flex>
@@ -88,7 +88,7 @@
                       <div class="headline text-xs-center">Multiple Options</div>
                     </v-card-title>
                     <v-card-text>
-                      Let attendees choose between phone and e-mail notifications. We've got you covered.  Are you going to host more than one event with a need for more than oen event administrator?  Check out our subscriptions for organizations to take advantage of a yearly plan that let's you set up an unlimited number of events!
+                      Notify them by phone and e-mail. Click the button to subscribe now.
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -101,8 +101,8 @@
       <section>
         <v-parallax :src="encodeURI('https://image.ibb.co/cJvH17/graduation_995042_1920.jpg')" height="380">
           <v-layout column align-center justify-center style="width: 100%; background-color: rgba(15,15,15,.7)">
-            <div class="headline white--text mb-3 text-xs-center"><strong>Up<span class="amber--text">Next</span></strong> makes it possible for busy professionals to attend without giving up their entire day.  </div>
-            <em>Busy attendees can show up just in time for a certain portion of an event without the risk of missing it.</em>
+            <div class="headline white--text mb-3 text-xs-center"><strong>Up<span class="amber--text">Next</span></strong> makes sure you get there just in time for that special moment.  </div>
+            <em>Busy attendees can show up just in time without the risk of missing it.</em>
             <v-btn class="blue lighten-2 mt-5" dark large href="#" @click.prevent="">
               Schedule an event
             </v-btn>
@@ -118,7 +118,7 @@
           <v-flex xs12 text-xs-center class="mt-5">
            <div class="headline">Questions? Let us know!</div>
            <br>
-          <div>We're looking for event organizers just like you to try out our product at a discount. Send us your feedback and receive valuable savings!</div>
+          <div>Try it out! Send us your feedback and receive valuable savings!</div>
           </v-flex>
           <v-flex xs8 offset-xs2>
 
